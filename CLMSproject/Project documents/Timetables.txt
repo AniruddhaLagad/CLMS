@@ -1,0 +1,25 @@
+															Department of BCA
+														Practical schedule for TYBCA SCIENCE 
+______________________________________________________________________________________________________________________________________________________
+							  SEMESTER-1                                                             SEMESTER-1                               
+______________________________________________________________________________________________________________________________________________________
+| Batch    | Subject         | Day        | Time       | Lab Name   |     | Batch    | Subject          | Day        | Time       | Lab Name  | 
+|----------|-----------------|------------|------------|------------|     |----------|------------------|------------|------------|-----------|
+| TYBCA-B1 | Java Prg        | Monday     | 2PM to 4PM | BCA Lab-I  |     | TYBCA-B1 | Android Prg      | Monday     | 2PM to 4PM | BCA Lab-I |
+|          | Data Mining     | Tuesday    | 2PM to 4PM | BCA Lab-II |     |          | Go Prg           | Tuesday    | 2PM to 4PM | BCA Lab-II|
+|----------|-----------------|------------|------------|------------|     |----------|------------------|------------|------------|-----------|
+| TYBCA-B2 | Java Prg        | Tuesday    | 2PM to 4PM | BCA Lab-I  |     | TYBCA-B2 | Android Prg      | Tuesday    | 2PM to 4PM | BCA Lab-I |
+|          | Data Mining     | Wednesday  | 2PM to 4PM | BCA Lab-II |     |          | Go Prg           | Wednesday  | 2PM to 4PM | BCA Lab-II|
+|----------|-----------------|------------|------------|------------|     |----------|------------------|------------|------------|-----------|
+| TYBCA-B3 | Java Prg        | Wednesday  | 2PM to 4PM | BCA Lab-I  |     | TYBCA-B3 | Android Prg      | Wednesday  | 2PM to 4PM | BCA Lab-I |
+|          | Data Mining     | Thursday   | 2PM to 4PM | BCA Lab-II |     |          | Go Prg           | Thursday   | 2PM to 4PM | BCA Lab-II|
+|----------|-----------------|------------|------------|------------|     |----------|------------------|------------|------------|-----------|
+| TYBCA-B4 | Java Prg        | Thursday   | 2PM to 4PM | BCA Lab-I  |     | TYBCA-B4 | Android Prg      | Thursday   | 2PM to 4PM | BCA Lab-I |
+|          | Data Mining     | Friday     | 2PM to 4PM | BCA Lab-II |     |          | Go Prg           | Friday     | 2PM to 4PM | BCA Lab-II|
+|----------|-----------------|------------|------------|------------|     |----------|------------------|------------|------------|-----------|
+| TYBCA-B5 | Java Prg        | Friday     | 2PM to 4PM | BCA Lab-I  |     | TYBCA-B5 | Android Prg      | Friday     | 2PM to 4PM | BCA Lab-I |
+|          | Data Mining     | Saturday   | 2PM to 4PM | BCA Lab-II |     |          | Go Prg           | Saturday   | 2PM to 4PM | BCA Lab-II|
+|----------|-----------------|------------|------------|------------|     |----------|------------------|------------|------------|-----------|
+| TYBCA-B6 | Java Prg        | Saturday   | 2PM to 4PM | BCA Lab-I  |     | TYBCA-B6 | Android Prg      | Saturday   | 2PM to 4PM | BCA Lab-I |
+|          | Data Mining     | Monday     | 2PM to 4PM | BCA Lab-II |     |          | Go Prg           | Monday     | 2PM to 4PM | BCA Lab-II|
+______________________________________________________________________________________________________________________________________________________

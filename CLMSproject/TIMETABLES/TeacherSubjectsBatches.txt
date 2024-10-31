@@ -1,0 +1,47 @@
+Teacher, Subjects & Batches
+
+FYBCA
+Pawar N.P    (FYBCA SEM1-C Prg & SEM2-Advanced C)
+Shinde S.S   (FYBCA SEM1-FOC AND SEM2-CO)
+Rewaskar P.D (FYBCA SEM1-Applied Maths & SEM2-DBMS-I)
+
+FYBCS
+Jadhav M.K(FYBCS SEM-I Mathematics & SEM-II Basic Physics)
+Misal M.R (FYBCS SEM-I Programming in C SEM-II Communication skills)
+Patil M.B (FYBCS SEM- II Digital Electronics SEM-I Computer Fundamentals)
+
+SYBCA
+Lohar S.P  (SEM-I WebTech & SEM-II PHP)
+Jadhav S.D (SEM-I CN & SEM-II C++)
+Mokashi R.D(SEM-I DS & SEM-II Python)
+
+SYBCS
+Thube D.H  (SEM-I Advanced C Programming & SEM-II Data Structure)
+Sathe A.P  (SEM-I Computer Orgainization & SEM-II Operating system)
+Bahirat P.B(SEM-I Basic Electronics & SEM-II Programming Laboratory)
+
+TYBCA
+Meher D.P (SEM-I Data Mining & SEM-II Go Prg)
+Jabade M.D(SEM-I Java Prg & SEM-II Android Prg)
+Kale P.M  (SEM-I Operating System & SEM-II Project Lab)
+
+TYBCS
+Kanse P.B    (SEM-1 Analysis of Algorithms & SEM-II Web Designing)
+Jagade T.Y   (SEM-1 Software Engineering & SEM-II Data Science)
+Junnarkar B.S(SEM-1 Java Programming & SEM-II Rwsearch Project)
+
+FYMCA
+Parage R.T   (SEM-1 IoT & SEM-II AI)
+Waghmode D.M (SEM-1 MIS& SEM-II Data Science)
+
+FYMCS
+Sawant P.D (SEM-I OOP & SEM-II Software Architecture)
+Kokare A.B (SEM-I NLP & SEM-II ML and DL)
+
+SYMCA
+Bhor P.E      (SEM-I Software Automation & SEM-II DS using Java)
+Ingulakar U.S (SEM-I ML DS AI & SEM-II Big Data)
+
+SYMCS
+Raykar P.O (SEM-I Big Data & SEM-II Adavanced Python)
+Darekar M.J(SEM-I Computer Graphics & SEM-II Data Networking)

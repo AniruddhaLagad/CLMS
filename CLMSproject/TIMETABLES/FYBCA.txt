@@ -1,0 +1,37 @@
+								Department of Computer Application
+								Practical Shedule for FYBCA
+				     	SEMESTER-1                                                           SEMESTER-2                                                                              
+
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| Batch    | Subject         | Day        | Time       | Lab Name   | Teacher     || Batch    | Subject         | Day        | Time       | Lab Name   |             |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| FYBCA-B1 | C Programming   | Monday     | 8AM to 10AM| BCA Lab-I  |Pawar N.P    || FYBCA-B1 | Advanced C      | Monday     | 8AM to 10AM| BCA Lab-I  |Pawar N.P    |
+|          | FOC             | Tuesday    | 8AM to 10AM| BCA Lab-II |Shinde S.S   ||          | DBMS-I          | Tuesday    | 8AM to 10AM| BCA Lab-II |Jadhav M.K   |
+|          | Applied Maths   | Wednesday  | 8AM to 10AM| BCA Lab-III|Rewaskar P.D ||          | CO              | Wednesday  | 8AM to 10AM| BCA Lab-III|Shinde S.S   |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| FYBCA-B2 | C Programming   | Tuesday    | 8AM to 10AM| BCA Lab-I  |Pawar N.P    || FYBCA-B2 | Advanced C      | Tuesday    | 8AM to 10AM| BCA Lab-I  |Pawar N.P    |
+|          | FOC             | Wednesday  | 8AM to 10AM| BCA Lab-II |Shinde S.S   ||          | DBMS-I          | Wednesday  | 8AM to 10AM| BCA Lab-II |Jadhav M.K   |
+|          | Applied Maths   | Thursday   | 8AM to 10AM| BCA Lab-III|Rewaskar P.D ||          | CO              | Thursday   | 8AM to 10AM| BCA Lab-III|Shinde S.S   |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| FYBCA-B3 | C Programming   | Wednesday  | 8AM to 10AM| BCA Lab-I  |Pawar N.P    || FYBCA-B3 | Advanced C      | Wednesday  | 8AM to 10AM| BCA Lab-I  |Pawar N.P    |             
+|          | FOC             | Thursday   | 8AM to 10AM| BCA Lab-II |Shinde S.S   ||          | DBMS-I          | Thursday   | 8AM to 10AM| BCA Lab-II |Jadhav M.K   |
+|          | Applied Maths   | Friday     | 8AM to 10AM| BCA Lab-III|Rewaskar P.D ||          | CO              | Friday     | 8AM to 10AM| BCA Lab-III|Shinde S.S   |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| FYBCA-B4 | C Programming   | Thursday   | 8AM to 10AM| BCA Lab-I  |Pawar N.P    || FYBCA-B4 | Advanced C      | Thursday   | 8AM to 10AM| BCA Lab-I  |Pawar N.P    |
+|          | FOC             | Friday     | 8AM to 10AM| BCA Lab-II |Shinde S.S   ||          | DBMS-I          | Friday     | 8AM to 10AM| BCA Lab-II |Jadhav M.K   |
+|          | Applied Maths   | Saturday   | 8AM to 10AM| BCA Lab-III|Rewaskar P.D ||          | CO              | Saturday   | 8AM to 10AM| BCA Lab-III|Shinde S.S   |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| FYBCA-B5 | C Programming   | Friday     | 8AM to 10AM| BCA Lab-I  |Pawar N.P    || FYBCA-B5 | Advanced C      | Friday     | 8AM to 10AM| BCA Lab-I  |Pawar N.P    |
+|          | FOC             | Saturday   | 8AM to 10AM| BCA Lab-II |Shinde S.S   ||          | DBMS-I          | Saturday   | 8AM to 10AM| BCA Lab-II |Jadhav M.K   |
+|          | Applied Maths   | Monday     | 8AM to 10AM| BCA Lab-III|Rewaskar P.D ||          | CO              | Monday     | 8AM to 10AM| BCA Lab-III|Shinde S.S   |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+| FYBCA-B6 | C Programming   | Saturday   | 8AM to 10AM| BCA Lab-I  |Pawar N.P    || FYBCA-B6 | Advanced C      | Saturday   | 8AM to 10AM| BCA Lab-I  |Pawar N.P    |
+|          | FOC             | Monday     | 8AM to 10AM| BCA Lab-II |Shinde S.S   ||          | DBMS-I          | Monday     | 8AM to 10AM| BCA Lab-II |Jadhav M.K   |
+|          | Applied Maths   | Tuesday    | 8AM to 10AM| BCA Lab-III|Rewaskar P.D ||          | CO              | Tuesday    | 8AM to 10AM| BCA Lab-III|Shinde S.S   |
+|----------|-----------------|------------|------------|------------|-------------||----------|-----------------|------------|------------|------------|-------------|
+
+Pawar N.P    (FYBCA SEM1-C Prg & SEM2-Advanced C)
+Shinde S.S   (FYBCA SEM1-FOC AND SEM2-CO)
+Rewaskar P.D (FYBCA SEM1-Applied Maths & SEM2-DBMS-I)
+
+

@@ -1,0 +1,64 @@
+							Department of Computer Science
+						Practical Schedule fotFYBCS
+							SEMESTER-1
+|----------------------------------------------------------------------------|
+| Batch   | Subject                | Day        | Time       | Lab Name      |
+|----------------------------------------------------------------------------|
+| FYBCS-B1| Programming in C       | Monday     | 8AM to 10AM| BCS Lab-I     |
+|         | Mathematics            | Tuesday    | 8AM to 10AM| BCS Lab-II    |
+|         | Computer Fundamentals  | Wednesday  | 8AM to 10AM| BCS Lab-III   |
+|----------------------------------------------------------------------------|
+| FYBCS-B2| Programming in C       | Tuesday    | 8AM to 10AM| BCS Lab-I     |
+|         | Mathematics            | Wednesday  | 8AM to 10AM| BCS Lab-II    |
+|         | Computer Fundamentals  | Thursday   | 8AM to 10AM| BCS Lab-III   |
+|----------------------------------------------------------------------------|
+| FYBCS-B3| Programming in C       | Wednesday  | 8AM to 10AM| BCS Lab-I     |
+|         | Mathematics            | Thursday   | 8AM to 10AM| BCS Lab-II    |
+|         | Computer Fundamentals  | Friday     | 8AM to 10AM| BCS Lab-III   |
+|----------------------------------------------------------------------------|
+| FYBCS-B4| Programming in C       | Thursday   | 8AM to 10AM| BCS Lab-I     |
+|         | Mathematics            | Friday     | 8AM to 10AM| BCS Lab-II    |
+|         | Computer Fundamentals  | Saturday   | 8AM to 10AM| BCS Lab-III   |
+|----------------------------------------------------------------------------|
+| FYBCS-B5| Programming in C       | Friday     | 8AM to 10AM| BCS Lab-I     |
+|         | Mathematics            | Saturday   | 8AM to 10AM| BCS Lab-II    |
+|         | Computer Fundamentals  | Monday     | 8AM to 10AM| BCS Lab-III   |
+|----------------------------------------------------------------------------|
+| FYBCS-B6| Programming in C       | Saturday   | 8AM to 10AM| BCS Lab-I     |
+|         | Mathematics            | Monday     | 8AM to 10AM| BCS Lab-II    |
+|         | Computer Fundamentals  | Tuesday    | 8AM to 10AM| BCS Lab-III   |
+|----------------------------------------------------------------------------|
+
+									SEMESTER-2
+|----------------------------------------------------------------------------|
+| Batch   | Subject              | Day        | Time       | Lab Name        |
+|----------------------------------------------------------------------------|
+| FYBCS-B1| Basic Physics        | Monday     | 8AM to 10AM| BCS Lab-I       |
+|         | Digital Logic        | Tuesday    | 8AM to 10AM| BCS Lab-II      |
+|         | Communication skills | Wednesday  | 8AM to 10AM| BCS Lab-III     |
+|----------------------------------------------------------------------------|
+| FYBCS-B2| Basic Physics        | Tuesday    | 8AM to 10AM| BCS Lab-I       |
+|         | Digital Logic        | Wednesday  | 8AM to 10AM| BCS Lab-II      |
+|         | Communication skills | Thursday   | 8AM to 10AM| BCS Lab-III     |
+|----------------------------------------------------------------------------|
+| FYBCS-B3| Basic Physics        | Wednesday  | 8AM to 10AM| BCS Lab-I       |
+|         | Digital Logic        | Thursday   | 8AM to 10AM| BCS Lab-II      |
+|         | Communication skills | Friday     | 8AM to 10AM| BCS Lab-III     |
+|----------------------------------------------------------------------------|
+| FYBCS-B4| Basic Physics        | Thursday   | 8AM to 10AM| BCS Lab-I       |
+|         | Digital Logic        | Friday     | 8AM to 10AM| BCS Lab-II      |
+|         | Communication skills | Saturday   | 8AM to 10AM| BCS Lab-III     |
+|----------------------------------------------------------------------------|
+| FYBCS-B5| Basic Physics        | Friday     | 8AM to 10AM| BCS Lab-I       |
+|         | Digital Logic        | Saturday   | 8AM to 10AM| BCS Lab-II      |
+|         | Communication skills | Monday     | 8AM to 10AM| BCS Lab-III     |
+|----------------------------------------------------------------------------|
+| FYBCS-B6| Basic Physics        | Saturday   | 8AM to 10AM| BCS Lab-I       |
+|         | Digital Logic        | Monday     | 8AM to 10AM| BCS Lab-II      |
+|         | Communication skills | Tuesday    | 8AM to 10AM| BCS Lab-III     |
+|----------------------------------------------------------------------------|
+
+Jadhav M.K(FYBCS SEM-I Mathematics & SEM-II Basic Physics)
+Misal M.R (FYBCS SEM-I Programming in C SEM-II Communication skills)
+Patil M.B (FYBCS SEM- II Digital Electronics SEM-I Computer Fundamentals)
+

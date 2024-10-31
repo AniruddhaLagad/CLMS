@@ -1,0 +1,25 @@
+							     Department of Computer Science
+								Practical Schdeule SYMCS
+________________________________________________________________________________________________________________________________________________________
+				  SEMESTER-1                                                               SEMESTER-2
+________________________________________________________________________________________________________________________________________________________
+| Batch    | Subject                   | Day        | Time       | Lab Name  |    | Batch    | Subject            | Day        | Time       | Lab Name  | 
+|----------|---------------------------|------------|------------|-----------|    |----------|--------------------|------------|------------|-----------|
+| SYMCS-B1 | Big Data                  | Monday     | 11AM to 1PM| MCS Lab-I |    | SYMCS-B1 | Computer Graphics  | Monday     | 11AM to 1PM| MCS Lab-I |
+|          | Advanced Python           | Tuesday    | 11AM to 1PM| MCS Lab-II|    |          | Data Networking    | Tuesday    | 11AM to 1PM| MCS Lab-II|
+|----------|---------------------------|------------|------------|-----------|    |----------|--------------------|------------|------------|-----------|
+| SYMCS-B2 | Big Data                  | Tuesday    | 11AM to 1PM| MCS Lab-I |    | SYMCS-B2 | Computer Graphics  | Tuesday    | 11AM to 1PM| MCS Lab-I |
+|          | Advanced Python           | Wednesday  | 11AM to 1PM| MCS Lab-II|    |          | Data Networking    | Wednesday  | 11AM to 1PM| MCS Lab-II|
+|----------|---------------------------|------------|------------|-----------|    |----------|--------------------|------------|------------|-----------|
+| SYMCS-B3 | Big Data                  | Wednesday  | 11AM to 1PM| MCS Lab-I |    | SYMCS-B3 | Computer Graphics  | Wednesday  | 11AM to 1PM| MCS Lab-I |
+|          | Advanced Python           | Thursday   | 11AM to 1PM| MCS Lab-II|    |          | Data Networking    | Thursday   | 11AM to 1PM| MCS Lab-II|
+|----------|---------------------------|------------|------------|-----------|    |----------|--------------------|------------|------------|-----------|
+| SYMCS-B4 | Big Data                  | Thursday   | 11AM to 1PM| MCS Lab-I |    | SYMCS-B4 | Computer Graphics  | Thursday   | 11AM to 1PM| MCS Lab-I |
+|          | Advanced Python           | Friday     | 11AM to 1PM| MCS Lab-II|    |          | Data Networking    | Friday     | 11AM to 1PM| MCS Lab-II|
+________________________________________________________________________________________________________________________________________________________
+
+
+
+Raykar P.O (SEM-I Big Data & SEM-II Adavanced Python)
+Darekar M.J(SEM-I Computer Graphics & SEM-II Data Networking)
+

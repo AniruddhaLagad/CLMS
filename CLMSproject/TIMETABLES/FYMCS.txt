@@ -1,0 +1,22 @@
+						Department of Computer Science
+						Practical Schdeule FYMCS
+								SEMESTER-1
+								
+|--------------|---------------------------|------------|------------|------------||--------------|------------|------------|------------|------------|
+| Batch        | Subject                   | Day        | Time       | Lab Name   || Batch        | Subject    | Day        | Time       | Lab Name   |
+|--------------|---------------------------|------------|------------|------------||--------------|------------|------------|------------|------------|
+| FYMCS-B1     | OOP                       | Monday     | 8AM to 10AM| MCS Lab-I  || FYMCS-B1     | NLP        | Monday     | 8AM to 10AM| MCS Lab-I  |
+|              | Software Architecture     | Tuesday    | 8AM to 10AM| MCS Lab-II ||              | ML and DL  | Tuesday    | 8AM to 10AM| MCS Lab-II |
+|--------------|---------------------------|------------|------------|------------||--------------|------------|------------|------------|------------|
+| FYMCS-B2     | OOP                       | Tuesday    | 8AM to 10AM| MCS Lab-I  || FYMCS-B2     | NLP        | Tuesday    | 8AM to 10AM| MCS Lab-I  |
+|              | Software Architecture     | Wednesday  | 8AM to 10AM| MCS Lab-II ||              | ML and DL  | Wednesday  | 8AM to 10AM| MCS Lab-II |
+|--------------|---------------------------|------------|------------|------------||--------------|------------|------------|------------|------------|
+| FYMCS-B3     | OOP                       | Wednesday  | 8AM to 10AM| MCS Lab-I  || FYMCS-B3     | NLP        | Wednesday  | 8AM to 10AM| MCS Lab-I  |
+|              | Software Architecture     | Thursday   | 8AM to 10AM| MCS Lab-II ||              | ML and DL  | Thursday   | 8AM to 10AM| MCS Lab-II |
+|--------------|---------------------------|------------|------------|------------||--------------|------------|------------|------------|------------|
+| FYMCS-B4     | OOP                       | Thursday   | 8AM to 10AM| MCS Lab-I  || FYMCS-B4     | NLP        | Thursday   | 8AM to 10AM| MCS Lab-I  |
+|              | Software Architecture     | Friday     | 8AM to 10AM| MCS Lab-II ||              | ML and DL  | Friday     | 8AM to 10AM| MCS Lab-II |
+|--------------|---------------------------|------------|------------|------------||--------------|------------|------------|------------|------------|
+
+Sawant P.D (SEM-I OOP & SEM-II Software Architecture)
+Kokare A.B (SEM-I NLP & SEM-II ML and DL)

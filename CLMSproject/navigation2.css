@@ -1,0 +1,40 @@
+/**********************Style for staff nav element********/
+/* Center-align the heading */
+h2 {
+    text-align: center;
+    color: #000; /* Adjust text color as needed */
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif; /* Use Algerian font */
+}
+
+/* Style for department headings */
+h3 {
+    margin-top: 20px; /* Add space between department headings */
+    font-size: 1.4em; /* Increase font size for department headings */
+    text-align:center;
+    background-color: #c2fcf980;
+}
+
+/* Style for tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px; /* Add space between tables */
+}
+
+/* Style for table headings */
+th {
+    background-color: #6ef8f6; 
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style for table cells */
+td {
+    padding: 10px;
+    background-color: #c6f8f6; /* Lighter gray background for even rows */
+}
+
+/* Style for alternate rows (zebra-striping) */
+tr:nth-child(even) {
+    background-color: #c6f8f6; /* Lighter gray background for even rows */
+}
