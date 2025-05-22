@@ -1,0 +1,5 @@
+.logo {
+    display: inline-block; /* Display the logo as an inline-block element */
+    float: left; /* Float the logo to the left corner */
+}
+-----------------------------------------------------------------------------------------

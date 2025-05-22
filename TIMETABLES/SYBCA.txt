@@ -1,0 +1,36 @@
+							    Department of BCA
+ 						   Practical Schedule for SYBCA SCIENCE 
+_________________________________________________________________________________________________________________________________________________
+																					               SEMESTER-1	                                                       SEMESTER-2
+_________________________________________________________________________________________________________________________________________________
+| Batch    | Subject         | Day        | Time       | Lab Name   |	| Batch    | Subject         | Day        | Time       | Lab Name   |
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+| SYBCA-B1 | Web Tech        | Monday     | 11AM to 1PM| BCA Lab-I  |	| SYBCA-B1 | C++             | Monday     | 11AM to 1PM| BCA Lab-I  |
+|          | CN              | Tuesday    | 11AM to 1PM| BCA Lab-II |	|          | PHP             | Tuesday    | 11AM to 1PM| BCA Lab-II |
+|          | DS              | Wednesday  | 11AM to 1PM| BCA Lab-III|	|          | Python          | Wednesday  | 11AM to 1PM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+| SYBCA-B2 | Web Tech        | Tuesday    | 11AM to 1PM| BCA Lab-I  |	| SYBCA-B2 | C++             | Tuesday    | 11AM to 1PM| BCA Lab-I  |
+|          | CN              | Wednesday  | 11AM to 1PM| BCA Lab-II |	|          | PHP             | Wednesday  | 11AM to 1PM| BCA Lab-II |
+|          | DS              | Thursday   | 11AM to 1PM| BCA Lab-III|	|          | Python          | Thursday   | 11AM to 1PM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+| SYBCA-B3 | Web Tech        | Wednesday  | 11AM to 1PM| BCA Lab-I  |	| SYBCA-B3 | C++             | Wednesday  | 11AM to 1PM| BCA Lab-I  |
+|          | CN              | Thursday   | 11AM to 1PM| BCA Lab-II |	|          | PHP             | Thursday   | 11AM to 1PM| BCA Lab-II |
+|          | DS              | Friday     | 11AM to 1PM| BCA Lab-III|	|          | Python          | Friday     | 11AM to 1PM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+| SYBCA-B4 | Web Tech        | Thursday   | 11AM to 1PM| BCA Lab-I  |	| SYBCA-B4 | C++             | Thursday   | 11AM to 1PM| BCA Lab-I  |
+|          | CN              | Friday     | 11AM to 1PM| BCA Lab-II |	|          | PHP             | Friday     | 11AM to 1PM| BCA Lab-II |
+|          | DS              | Saturday   | 11AM to 1PM| BCA Lab-III|	|          | Python          | Saturday   | 11AM to 1PM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+| SYBCA-B5 | Web Tech        | Friday     | 11AM to 1PM| BCA Lab-I  |	| SYBCA-B5 | C++             | Friday     | 11AM to 1PM| BCA Lab-I  |
+|          | CN              | Saturday   | 11AM to 1PM| BCA Lab-II |	|          | PHP             | Saturday   | 11AM to 1PM| BCA Lab-II |
+|          | DS              | Monday     | 11AM to 1PM| BCA Lab-III|	|          | Python          | Monday     | 11AM to 1PM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+| SYBCA-B6 | Web Tech        | Saturday   | 11AM to 1PM| BCA Lab-I  |	| SYBCA-B6 | C++             | Saturday   | 11AM to 1PM| BCA Lab-I  |
+|          | CN              | Monday     | 11AM to 1PM| BCA Lab-II |	|          | PHP             | Monday     | 11AM to 1PM| BCA Lab-II |
+|          | DS              | Tuesday    | 11AM to 1PM| BCA Lab-III|	|          | Python          | Tuesday    | 11AM to 1PM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------|	|----------|-----------------|------------|------------|------------|
+
+Lohar S.P  (SEM-I WebTech & SEM-II PHP)
+Jadhav S.D (SEM-I CN & SEM-II C++)
+Mokashi R.D(SEM-I DS & SEM-II Python)
+

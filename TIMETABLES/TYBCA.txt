@@ -1,0 +1,37 @@
+						         Department of BCA
+						Practical schedule for TYBCA SCIENCE 
+___________________________________________________________________________________________________________________________________________						
+SEMESTER-1                                                             SEMESTER-2
+___________________________________________________________________________________________________________________________________________
+| Batch    | Subject         | Day        | Time       | Lab Name   | | Batch    | Subject         | Day        | Time       | Lab Name   |
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+| TYBCA-B1 | Java Prg        | Monday     | 8AM to 10AM| BCA Lab-I  | | TYBCA-B1 | Android Prg     | Monday     | 8AM to 10AM| BCA Lab-I  |
+|          | Data Mining     | Tuesday    | 8AM to 10AM| BCA Lab-II | |          | Go Prg          | Tuesday    | 8AM to 10AM| BCA Lab-II |
+|          | Operating System| Wednesday  | 8AM to 10AM| BCA Lab-III| |          | Project Lab     | Wednesday  | 8AM to 10AM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+| TYBCA-B2 | Java Prg        | Tuesday    | 8AM to 10AM| BCA Lab-I  | | TYBCA-B2 | Android Prg     | Tuesday    | 8AM to 10AM| BCA Lab-I  |
+|          | Data Mining     | Wednesday  | 8AM to 10AM| BCA Lab-II | |          | Go Prg          | Wednesday  | 8AM to 10AM| BCA Lab-II |
+|          | Operating System| Thursday   | 8AM to 10AM| BCA Lab-III| |          | Project Lab     | Thursday   | 8AM to 10AM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+| TYBCA-B3 | Java Prg        | Wednesday  | 8AM to 10AM| BCA Lab-I  | | TYBCA-B3 | Android Prg     | Wednesday  | 8AM to 10AM| BCA Lab-I  |
+|          | Data Mining     | Thursday   | 8AM to 10AM| BCA Lab-II | |          | Go Prg          | Thursday   | 8AM to 10AM| BCA Lab-II |
+|          | Operating System| Friday     | 8AM to 10AM| BCA Lab-III| |          | Project Lab     | Friday     | 8AM to 10AM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+| TYBCA-B4 | Java Prg        | Thursday   | 8AM to 10AM| BCA Lab-I  | | TYBCA-B4 | Android Prg     | Thursday   | 8AM to 10AM| BCA Lab-I  |
+|          | Data Mining     | Friday     | 8AM to 10AM| BCA Lab-II | |          | Go Prg          | Friday     | 8AM to 10AM| BCA Lab-II |
+|          | Operating System| Saturday   | 8AM to 10AM| BCA Lab-III| |          | Project Lab     | Saturday   | 8AM to 10AM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+| TYBCA-B5 | Java Prg        | Friday     | 8AM to 10AM| BCA Lab-I  | | TYBCA-B5 | Android Prg     | Friday     | 8AM to 10AM| BCA Lab-I  |
+|          | Data Mining     | Saturday   | 8AM to 10AM| BCA Lab-II | |          | Go Prg          | Saturday   | 8AM to 10AM| BCA Lab-II |
+|          | Operating System| Monday     | 8AM to 10AM| BCA Lab-III| |          | Project Lab     | Monday     | 8AM to 10AM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+| TYBCA-B6 | Java Prg        | Saturday   | 8AM to 10AM| BCA Lab-I  | | TYBCA-B6 | Android Prg     | Saturday   | 8AM to 10AM| BCA Lab-I  |
+|          | Data Mining     | Monday     | 8AM to 10AM| BCA Lab-II | |          | Go Prg          | Monday     | 8AM to 10AM| BCA Lab-II |
+|          | Operating System| Tuesday    | 8AM to 10AM| BCA Lab-III| |          | Project Lab     | Tuesday    | 8AM to 10AM| BCA Lab-III|
+|----------|-----------------|------------|------------|------------| |----------|-----------------|------------|------------|------------|
+
+
+Meher D.P (SEM-I Data Mining & SEM-II Go Prg)
+Jabade M.D(SEM-I Java Prg & SEM-II Android Prg)
+Kale P.M  (SEM-I Operating System & SEM-II Project Lab)
+

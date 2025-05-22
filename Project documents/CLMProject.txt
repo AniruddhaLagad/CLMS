@@ -1,0 +1,184 @@
++-----+                                                                                                +-----+
+|     |                               <h1>Name of the University<h1>                                   |     |
+|logo1|                                 <h3>university address<h3>                                     |logo2|
+|	  |                                <h1>Name of the College<h1>                                     |     |
+|     |                                  <h3>College address<h3>                                       |	 |
++-----+                                                                                                +-----+
+			 <--  <-- [1st marquee tag saying check your practical work shedule here]              
+			 <--  <-- [2nd marquee tag saying click here to login/register]
+			  
+				
+[Navigation bar(Home,academics,photo gallery,placement,staff,studentcorner, examination,contact us downloads)]
+ 
++-------------------------------+  +------------------+  +-----------------------------+  +------------------+
+|[login here form window]       |  |Download labbooks |  |check your practical schedule|  |lab avialiability |
+|                               |  |                  |  |                             |  |                  |
+|username:---------------       |  |                  |  |                             |  |                  |
+|password:---------------       |  |                  |  |                             |  |                  |
+|        forgot password?       |  |                  |  |                             |  |                  |
+|        forgot username?       |  |                  |  |                             |  |                  |
+|		New user?Register here  |  |                  |  |                             |  |                  |
++-------------------------------+  +------------------+  +-----------------------------+  +------------------+
+
+            [google amp location]                                                       [contact us ]     
+
+
+specifiactions/functionality for the home page is as follws:			
+1.logo1 and logo2 must be placed at left top corner and right top corner respectively.
+2.In between this logos there should be name of the university in mediun font below the university name there must be 
+an address line in small font. Below that there must be collge name in big font and belkow taht there must be an 
+address line in small font.
+3.There must be 1st marquee tag as mentioned above. Also the 2nd marquee tag, which contains login/register refrence, 
+by clicking on login or register user should redirect to login or register page. follow by this at new line there should 
+be navigation bar
+Navigation tab:
+4.There must be navigation bar which conatins above mentioned things.  
+5.By clicking on 'Home' user should redirect to homepage itself,
+6.By clicking on 'Academics' show the list of courses in the college like BCA,MCA,BCS,MCS,etc. also by clicking on that course
+show its classes fy,sy,ty with the capacity/quoata.
+7.By clicking on 'photo gallery' show some photos which i'll provide.
+8.By clicking on 'placement' show placement companies names. 
+9.By clicking on 'Staff' show the teaching staff list.
+10. By clicking on 'student corner' show option list like 
+    a)download labbook (then download without login),
+    b)check exam dates (then show withoiut login),
+	c)Practical timetable of batch (should be redirect to login/register page),
+    d)login/register (should be redirect to login/register page),
+	e)Practical timetable of class (should be redirect to login/register page),
+11.By clickingon 'Examination' show exam dates, some pdfs of timetable that i will share.
+12. Contact us show coolege emails, numbers, office time.
+
+below navigation bar there muste be login/register form like above mentioned.
+then right side to login form there msut be downlaod labbooks in which i will provide some pdfs.In that Display tabs/buttons 
+whcih will show list of varoius labbooks, circulars.
+then right side to downloads labbooks check your practical schedule option, then show msg to login and redircet to login page.
+then just below to practical shedule option there must be a tag which shows lab availability, for that by clicking 
+on that button redirect yo login/register page.
+
+Below to this things or at the end of the homepage dispalyaddres:goggle map loaction option(here by clicking on the image or address link 
+user must redirect to goggle map) and  right side to address show option to contact us which show numbers, emails, office time, working days.
+End of the home page..
+
+Note: there must  be border to homepage, there msut be scroll bar on homepage, every thing should be good.
+Give me codes with filenames.
+
+
+index.php
+header.php
+navigation.php
+login_form.php
+download_labbooks.php
+check_practical_schedule.php
+lab_availability.php
+google_map.php
+contact_us.php
+footer.php
+index.php
+academics.php
+photo_gallery.php
+placement.php
+staff.php
+student_corner.php
+examination.php
+contact_us.php
+downloads.php
+
+
+
+Now below to navigation bar there are two things loginform and right side to login there is download labbooks and 
+now we have to do one more thing right side to login and below to downlaod labbooks have to place 'check practical schedule' 
+like below structure       
+---------------------------------------------------------------
+                           Nav Bar
+---------------------------------------------------------------
+loginform           |       downlaod labooks                  
+                    |                                         
+					|                                         
+					|                                         
+					|------------------------------------------                                         
+					|  check practical schedule               
+					|
+---------------------------------------------------------------
+
+
+we have already done with loginform and downlaod labboks part now we have do work on check practical schedule ans we have to 
+place it just below to downlaod labbooks. 
+
+
+
+BCA                                  | BCS
+FYBCA:sub code1|subject|datae|time   | FYBCS: syb code1|subject|datae|time
+      sub code2|subject|datae|time   |        sub code2|subject|datae|time
+	  sub code3|subject|datae|time   |        sub code3|subject|datae|time  
+SYBCA:sub code1|subject|datae|time   | SYBCS: syb code1|subject|datae|time
+      sub code2|subject|datae|time   |        sub code2|subject|datae|time
+	  sub code3|subject|datae|time   |        sub code3|subject|datae|time 
+TYBCA:sub code1|subject|datae|time   | TYBCS: syb code1|subject|datae|time
+      sub code2|subject|datae|time   |        sub code2|subject|datae|time
+	  sub code3|subject|datae|time   |        sub code3|subject|datae|time 
+-------------------------------------+------------------------------------
+MCA                                  | MCS: 
+FYMCA:syb code1|subject|datae|time    | FYMCS:syb code1|subject|datae|time
+	  sub code2|subject|datae|time            sub code2|subject|datae|time 
+SYMCA:syb code1|subject|datae|time    | SYMCS:syb code1|subject|datae|time
+      sub code2|subject|datae|time   |        sub code2|subject|datae|time
+
+where each class like fy have 3 subjects so do accordingly
+
+-----------------------------------------------------------------------------------------------------------------
+Backend thoughts...
+-----------------------------------------------------------------------------------------------------------------
+We have login &/ registration form in my website of Computer Laborartory Management System.
+In that for to log in user need to have username and password. But before that he must completed his registration. 
+Registration can take following information from the user(user acn be a student or teacher): 
+students user : roll, name, course, class, batch, email, phone, username, password, address
+(where roll, email, phone, username, password must be unique)
+teacher user  : id, name, subjects taught, classes taughts, batches taughts, email, phone, username,password
+(where id, email, phone, username, password must be unique)
+
+loginform tells user to enter username and password. below that we have provided facility of forgot password and forgot username.
+if user clicks on forgot password or forgot username then send his details on his email, also privide a option to update the password 
+only if he receives his forgot password email, while updating new password tell user to enter old password once and gthen new password.
+
+below that also for new users Registere here option is also provided.
+
+so for this purpose we will need to create a database abd tables accordingly.
+
+once the user login successfully then he must redirect to a new page in which there will be the main functonality/facility of 
+our computer laboratory management system.
+
+facilitys:
+1. by entering roll student must be able to see his batch & his weekly practical schedule.(student)(do separte for teacher)
+2. by entering lab number/lab name user(student & teacher) must be able to see whether that lab is available or not
+   if not available then show labno, labname, which batch is there with teacher name.(both))
+3. there must be list of PDFs for time tables of each course of each class of each batch.(both)
+4. also show following labs are free on following week days.(both)
+5. also show following batches have a practical and have not a practical on following week days.(for teachers)(both)
+6. also show following teachers have a practicalwork and have not a practicalwork on THIS slots od the day (slots are 8 to 10, 11 to 1, 2 to 4).(both)
+7. also show how many pcs, mouses,keyboards are there in a lab.(both)
+    [************CHECK YOUR ASSSIGNMENT'S STATUS************]
+8. also show user how many lab assignments are completed by students and how many are incomplete.(will see)
+9. also show user how many lab assignments are cheked by teacher and how many are unchecked.(will see)
+
+for this we need to create databses and tables:
+student , teacher as discussed aboved and additonaly somw new tables like:
+lab: labno, labname, pcs, mouses, keyboards, CPUs,etc,
+assignments: assignment 1 to 6, rollno, completed/incomplete.
+
+so with respect to this we have to craete a strong database and tables. so do it.
+
+----------------------------------------------------------------------------------------------------------------------------
+array of text in plsql:
+
+tsubjects TEXT[] NOT NULL,
+
+INSERT INTO TEACHER (tname, tsubjects, sclass, sbatch, sphone, semail, susername, spassword, saddress)
+VALUES ('John Doe', ARRAY['Math', 'Science', 'English'], 'Class A', 'Batch 2023', 1234567890, 'john@example.com', 
+        'john_doe', 'password123', '123 Main St');
+		
+DATE format in PostgreSQL: 'YYYY-MM-DD'
+---------------------------------------------------------------------------------------------------------------------------
+
+		
+		
+

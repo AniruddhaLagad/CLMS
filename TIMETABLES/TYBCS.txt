@@ -1,0 +1,35 @@
+															Department of Computer Science
+															Practical Schedule for TYBCS
+_________________________________________________________________________________________________________________________________________________________________
+									SEMESTER-1                                                                        SEMESTER-2
+_________________________________________________________________________________________________________________________________________________________________
+| Batch   | Subject                 | Day        | Time       | Lab Name     |     | Batch   | Subject                | Day        | Time       | Lab Name      |
+|----------------------------------------------------------------------------|     |----------------------------------------------------------------------------|
+| TYBCS-B1| Analysis of Algorithms  | Monday     | 2PM to 4PM | BCS Lab-I    |     | TYBCS-B1| Web Designing          | Monday     | 2PM to 4PM | BCS Lab-I     |
+|         | Software Engineering    | Tuesday    | 2PM to 4PM | BCS Lab-II   |     |         | Data Science           | Tuesday    | 2PM to 4PM | BCS Lab-II    |
+|         | JAVA Programming        | Wednesday  | 2PM to 4PM | BCS Lab-III  |     |         | Research Project       | Wednesday  | 2PM to 4PM | BCS Lab-III   |
+|----------------------------------------------------------------------------|     |----------------------------------------------------------------------------|
+| TYBCS-B2| Analysis of Algorithms  | Tuesday    | 2PM to 4PM | BCS Lab-I    |     | TYBCS-B2| Web Designing          | Tuesday    | 2PM to 4PM | BCS Lab-I     |
+|         | Software Engineering    | Wednesday  | 2PM to 4PM | BCS Lab-II   |     |         | Data Science           | Wednesday  | 2PM to 4PM | BCS Lab-II    |
+|         | JAVA Programming        | Thursday   | 2PM to 4PM | BCS Lab-III  |     |         | Research Project       | Thursday   | 2PM to 4PM | BCS Lab-III   |
+|----------------------------------------------------------------------------|     |----------------------------------------------------------------------------|
+| TYBCS-B3| Analysis of Algorithms  | Wednesday  | 2PM to 4PM | BCS Lab-I    |     | TYBCS-B3| Web Designing          | Wednesday  | 2PM to 4PM | BCS Lab-I     |
+|         | Software Engineering    | Thursday   | 2PM to 4PM | BCS Lab-II   |     |         | Data Science           | Thursday   | 2PM to 4PM | BCS Lab-II    |
+|         | JAVA Programming        | Friday     | 2PM to 4PM | BCS Lab-III  |     |         | Research Project       | Friday     | 2PM to 4PM | BCS Lab-III   |
+|----------------------------------------------------------------------------|     |----------------------------------------------------------------------------|
+| TYBCS-B4| Analysis of Algorithms  | Thursday   | 2PM to 4PM | BCS Lab-I    |     | TYBCS-B4| Web Designing          | Thursday   | 2PM to 4PM | BCS Lab-I     |
+|         | Software Engineering    | Friday     | 2PM to 4PM | BCS Lab-II   |     |         | Data Science           | Friday     | 2PM to 4PM | BCS Lab-II    |
+|         | JAVA Programming        | Saturday   | 2PM to 4PM | BCS Lab-III  |     |         | Research Project       | Saturday   | 2PM to 4PM | BCS Lab-III   |
+|----------------------------------------------------------------------------|     |----------------------------------------------------------------------------|
+| TYBCS-B5| Analysis of Algorithms  | Friday     | 2PM to 4PM | BCS Lab-I    |     | TYBCS-B5| Web Designing          | Friday     | 2PM to 4PM | BCS Lab-I     |
+|         | Software Engineering    | Saturday   | 2PM to 4PM | BCS Lab-II   |     |         | Data Science           | Saturday   | 2PM to 4PM | BCS Lab-II    |
+|         | JAVA Programming        | Monday     | 2PM to 4PM | BCS Lab-III  |     |         | Research Project       | Monday     | 2PM to 4PM | BCS Lab-III   |
+|----------------------------------------------------------------------------|     |----------------------------------------------------------------------------|
+| TYBCS-B6| Analysis of Algorithms  | Saturday   | 2PM to 4PM | BCS Lab-I    |     | TYBCS-B6| Web Designing          | Saturday   | 2PM to 4PM | BCS Lab-I     |
+|         | Software Engineering    | Monday     | 2PM to 4PM | BCS Lab-II   |     |         | Data Science           | Monday     | 2PM to 4PM | BCS Lab-II    |
+|         | JAVA Programming        | Tuesday    | 2PM to 4PM | BCS Lab-III  |     |         | Research Project       | Tuesday    | 2PM to 4PM | BCS Lab-III   |
+_________________________________________________________________________________________________________________________________________________________________
+
+Kanse P.B    (SEM-1 Analysis of Algorithms & SEM-II Web Designing)
+Jagade T.Y   (SEM-1 Software Engineering & SEM-II Data Science)
+Junnarkar B.S(SEM-1 Java Programming & SEM-II Rwsearch Project)

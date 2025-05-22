@@ -1,0 +1,130 @@
+/* Style for the content container */
+.content {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+    background-color: #f6f989;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box; /* Include padding and border in the width */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+/* Style for the course information */
+#courseInfo {
+    text-align: center;
+    margin-top: 40px; /* Increase space between the table and other content */
+}
+
+/* Style for the table */
+#courseInfo table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* Style for table header */
+#courseInfo th {
+    background-color: #ef234f;
+    color: white;
+    padding: 15px; /* Increase padding */
+    font-size: 20px; /* Increase font size */
+}
+
+/* Style for table cells */
+#courseInfo td {
+    padding: 12px; /* Increase padding */
+    border-bottom: 1px solid #ddd;
+    font-size: 18px; /* Increase font size */
+}
+
+#courseInfo h3{
+    font-size: 40px; /* Increase heading font size */
+    color: rgb(177, 14, 14);
+}
+
+/* Style for the body to cover the entire page */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f5; /* Set background color for the entire page */
+}
+/****End of styling of acdemics nav element finished*********/
+
+/***PHOTO Gallery css******/
+/* Style for the photo gallery */
+.photo_gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Style for the gallery link */
+.gallery-link {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+}
+
+/* Style for the individual photos */
+.photo_gallery img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Hover effect for photos */
+.photo_gallery img:hover {
+    transform: scale(1.05);
+}
+/****************style for placement*****************/
+/****************style for placement*****************/
+h1 {
+    text-align: center;
+    color: #000; /* Same text color as staff */
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif; /* Same font family as staff */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    background-color: #c2fcf980; /* Same background color as staff */
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #6ef8f6;
+}
+
+th {
+    background-color: #6ef8f6; /* Same background color as staff */
+}
+
+tr:nth-child(even) {
+    background-color: #c6f8f6; /* Same background color as staff */
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+
+

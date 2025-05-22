@@ -1,0 +1,48 @@
+															Department of Computer Science
+													   Practical Schedule for SYBCA SCIENCE 
+_________________________________________________________________________________________________________________________________________________
+ SEMESTER-1	                                                       			SEMESTER-2
+_________________________________________________________________________________________________________________________________________________
+| Batch   | Subject                  | Day        | Time       | Lab Name    || Batch   | Subject               | Day        | Time       | Lab Name       |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+| SYBCS-B1| Computer Organization    | Monday     | 11AM to 1PM| BCS Lab-I   || SYBCS-B1| Data Structure        | Monday     | 11AM to 1PM| BCS Lab-I      |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Basic Electronics        | Tuesday    | 11AM to 1PM| BCS Lab-II  ||         | Programming Laboratory| Tuesday    | 11AM to 1PM| BCS Lab-II     |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Advanced C Programming   | Wednesday  | 11AM to 1PM| BCS Lab-III ||         | Operating system      | Wednesday  | 11AM to 1PM| BCS Lab-III    |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+| SYBCS-B2| Computer Organization    | Tuesday    | 11AM to 1PM| BCS Lab-I   || SYBCS-B2| Data Structure        | Tuesday    | 11AM to 1PM| BCS Lab-I      |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Basic Electronics        | Wednesday  | 11AM to 1PM| BCS Lab-II  ||         | Programming Laboratory| Wednesday  | 11AM to 1PM| BCS Lab-II     |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Advanced C Programming   | Thursday   | 11AM to 1PM| BCS Lab-III ||         | Operating system      | Thursday   | 11AM to 1PM| BCS Lab-III    |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+| SYBCS-B3| Computer Organization    | Wednesday  | 11AM to 1PM| BCS Lab-I   || SYBCS-B3| Data Structure        | Wednesday  | 11AM to 1PM| BCS Lab-I      |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Basic Electronics        | Thursday   | 11AM to 1PM| BCS Lab-II  ||         | Programming Laboratory| Thursday   | 11AM to 1PM| BCS Lab-II     |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Advanced C Programming   | Friday     | 11AM to 1PM| BCS Lab-III ||         | Operating system      | Friday     | 11AM to 1PM| BCS Lab-III    |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+| SYBCS-B4| Computer Organization    | Thursday   | 11AM to 1PM| BCS Lab-I   || SYBCS-B4| Data Structure        | Thursday   | 11AM to 1PM| BCS Lab-I      |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Basic Electronics        | Friday     | 11AM to 1PM| BCS Lab-II  ||         | Programming Laboratory| Friday     | 11AM to 1PM| BCS Lab-II     |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Advanced C Programming   | Saturday   | 11AM to 1PM| BCS Lab-III ||         | Operating system      | Saturday   | 11AM to 1PM| BCS Lab-III    |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+| SYBCS-B5| Computer Organization    | Friday     | 11AM to 1PM| BCS Lab-I   || SYBCS-B5| Data Structure        | Friday     | 11AM to 1PM| BCS Lab-I      |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Basic Electronics        | Saturday   | 11AM to 1PM| BCS Lab-II  ||         | Programming Laboratory| Saturday   | 11AM to 1PM| BCS Lab-II     | 
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Advanced C Programming   | Monday     | 11AM to 1PM| BCS Lab-III ||         | Operating system      | Monday     | 11AM to 1PM| BCS Lab-III    |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+| SYBCS-B6| Computer Organization    | Saturday   | 11AM to 1PM| BCS Lab-I   || SYBCS-B6| Data Structure        | Saturday   | 11AM to 1PM| BCS Lab-I      |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Basic Electronics        | Monday     | 11AM to 1PM| BCS Lab-II  ||         | Programming Laboratory| Monday     | 11AM to 1PM| BCS Lab-II     |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+|         | Advanced C Programming   | Tuesday    | 11AM to 1PM| BCS Lab-III ||         | Operating system      | Tuesday    | 11AM to 1PM| BCS Lab-III    |
+|---------|--------------------------|------------|------------|-------------||---------|-----------------------|------------|------------|----------------|
+
+Thube D.H  (SEM-I Advanced C Programming & SEM-II Data Structure)
+Sathe A.P  (SEM-I Computer Orgainization & SEM-II Operating system)
+Bahirat P.B(SEM-I Basic Electronics & SEM-II Programming Laboratory)
+

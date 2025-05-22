@@ -1,0 +1,97 @@
+
+<h2>Teacher Registration</h2>
+<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+    <label for="tname">Name:</label><br>
+    <input type="text" id="tname" name="tname"><br>
+    <label for="tdob">Date of Birth:</label><br>
+    <input type="date" id="tdob" name="tdob"><br>
+    <label for="teachingexp">Teaching Experience:</label><br>
+    <input type="number" id="teachingexp" name="teachingexp"><br>
+    <label for="subjectstaught">Subjects Taught:</label><br>
+    <select id="subjectstaught" name="subjectstaught[]" multiple>
+        <option value="C">C</option>
+        <option value="Java">Java</option>
+        <option value="PHP">PHP</option>
+        <!-- Add more options as needed -->
+    </select><br>
+    <label for="classestaught">Classes Taught:</label><br>
+    <select id="classestaught" name="classestaught[]" multiple>
+        <option value="FYBCA">FYBCA</option>
+        <option value="SYBCA">SYBCA</option>
+        <option value="TYBCA">TYBCA</option>
+        <!-- Add more options as needed -->
+    </select><br>
+    <label for="batchestaught">Batches Taught:</label><br>
+    <select id="batchestaught" name="batchestaught[]" multiple>
+        <option value="B1">B1</option>
+        <option value="B2">B2</option>
+        <option value="B3">B3</option>
+        <!-- Add more options as needed -->
+    </select><br>
+    <label for="pthone">Phone:</label><br>
+    <input type="text" id="pthone" name="pthone"><br>
+    <label for="temail">Email:</label><br>
+    <input type="email" id="temail" name="temail"><br>
+    <label for="tusername">Username:</label><br>
+    <input type="text" id="tusername" name="tusername"><br>
+    <label for="tpassword">Password:</label><br>
+    <input type="password" id="tpassword" name="tpassword"><br>
+    <label for="taddress">Address:</label><br>
+    <textarea id="taddress" name="taddress"></textarea><br>
+
+    <input type="submit" name="teacher_submit" value="Register">
+</form>
+
+<?php
+if (isset($_POST['submit'])) {
+    $userType = $_POST['userType'];
+    
+    $db = pg_connect("host=localhost port=5432 dbname=CLMSDB user=postgres password=2003") 
+        or die("Cannot connect");
+
+    if ($userType === "student") {
+        $rollno = $_POST['srollno'];
+        $name = $_POST['sname'];
+        $course = $_POST['scourse'];
+        $class = $_POST['sclass'];
+        $batch = $_POST['sbatch'];
+        $dob = $_POST['sdob'];
+        $phone = $_POST['sphone'];
+        $email = $_POST['semail'];
+        $username = $_POST['susername'];
+        $password = $_POST['spassword'];
+        $address = $_POST['saddress'];
+
+        $query = "INSERT INTO STUDENT (srollno, sname, scourse, sclass, sbatch, sdob, sphone, semail, susername, spassword, saddress) 
+                  VALUES ('$rollno', '$name', '$course', '$class', '$batch', '$dob', '$phone', '$email', '$username', '$password', '$address')";
+    } elseif ($userType === "teacher") {
+        $tid = $_POST['tid'];
+        $name = $_POST['tname'];
+        $dob = $_POST['tdob'];
+        $teachingexp = $_POST['teachingexp'];
+        $subjectstaught = $_POST['subjectstaught'];
+        $classestaught = $_POST['classestaught'];
+        $batchestaught = $_POST['batchestaught'];
+        $phone = $_POST['tphone'];
+        $email = $_POST['temail'];
+        $username = $_POST['tusername'];
+        $password = $_POST['tpassword'];
+        $address = $_POST['taddress'];
+
+        $query = "INSERT INTO TEACHER (tid, tname, tdob, teachingexp, subjectstaught, classestaught, batchestaught, temail, tphone, tusername, tpassword, taddress) 
+                  VALUES ('$tid', '$name', '$dob', '$teachingexp', '$subjectstaught', '$classestaught', '$batchestaught', '$email', '$phone', '$username', '$password', '$address')";
+    }
+    
+    // Execute the query
+    $result = pg_query($db, $query);
+
+    if ($result) {
+        echo '<script>alert("Registration successful!");</script>';
+    } else {
+        echo '<script>alert("Error: ' . pg_last_error($db) . '");</script>';
+    }
+
+    // Close the database connection
+    pg_close($db);
+}
+?>

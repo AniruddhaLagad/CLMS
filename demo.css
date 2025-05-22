@@ -1,0 +1,20 @@
+/*****************download labbooks*****************/
+/* Style the download labbooks container */
+.download-labbooks {
+    display: inline-block; 
+    position: relative;
+    align-items: flex-end; /* Align items to the right side */
+}
+
+/* Style the download labbooks links */
+.download-labbooks a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+/* Change link color on hover */
+.download-labbooks a:hover {
+    color: #555;
+}

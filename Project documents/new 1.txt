@@ -1,0 +1,107 @@
+In the realm of educational institutions, the effective management of computer laboratories plays a pivotal role in facilitating 
+seamless learning experiences for students and optimizing resources for educators. The Computer Laboratory Management System (CLMS) 
+emerges as a sophisticated solution designed to streamline the operational aspects of computer laboratories within academic settings.
+
+
+The Computer Laboratory Management System (CLMS) is a sophisticated solution tailored for educational institutions
+to streamline the management of computer laboratories. Offering a range of functionalities, CLMS enables users to 
+check practical schedules, lab availability, practical exam schedules, and track lab assignments. 
+Additionally, it provides real-time information on lab occupancy, facilitates the download of lab materials, and 
+ensures efficient utilization of laboratory resources. In essence, CLMS enhances the learning experience by fostering 
+efficiency, transparency, and collaboration within academic environments.
+
+Hardware Requirements:
+
+Processor: Intel Core i5 or equivalent
+RAM: 8GB or higher
+Cache: 6MB or more
+Hard Disk: 500GB HDD or higher
+OR
+SSD: 256GB SSD or higher
+Software Requirements:
+
+Operating System: Windows 10 or Ubuntu 20.04 LTS
+Front End Software: HTML, CSS, JavaScript
+Back End Software: PHP 7.4 or higher, XAMPP Control Panel (Apache, MySQL), PostgreSQL 12.0 or higher
+
+
+Lack of Customization: If the system lacks flexibility or customization options, it may not meet the diverse needs of different 
+educational institutions or fail to adapt to changing requirements over time.
+Incomplete or Inaccurate Data: Inaccurate or incomplete data entry by users can undermine the system's effectiveness and reliability,
+ leading to errors or inconsistencies in scheduling, assignments, or other functionalities.
+ 
+ 
+						Registartion Form
+User Type: <radio button1> Student </radio button1>
+		   <radio button2> Taecher <radio button2>
+if User Type == Student 
+{
+	Name:<input type="text" id="sname" name="sname"><br><br>
+	Rollno:<input type="text" id="srollno" name="srollno"><br><br>
+	Course:----
+	Class-------
+	Batch------
+	DOB-----------
+	Phone--------
+	Email--------
+	Username--------
+	Password---------
+	Address-------
+	Submit--------(By clciking on submit show mesasge register successfully)
+}
+else if
+{
+	Name:
+	TID:
+	DOB:
+	Teachin Experience
+	Subjectstaught
+	Classestaught
+	Batchestaught
+	Phone
+	Email
+	Username
+	Password
+	Address 
+	Submit--------(By clciking on submit show mesasge register successfully)
+}
+		
+
+          Student Registartion          |		 Teacher Registartion
+                                        |
+										|
+										|
+										|
+										|
+										|
+										|
+										|
+										
+Bachelor of Computer Application
+FYBCA
+SYBCA
+TYBCA
+Master of Computer Application
+FYMCA
+SYMCA
+Bachelor of Computer Science
+FYBCA
+SYBCS
+TYBCS
+Master of Computer Science
+FYMCS
+SYMCS
+
+
+( FYBCA-B1 TO FYBCA-B6, SYBCA-B1 TO SYBCA-B6, TYBCA-B1 TO TYBCA-B6  ) these batches have practical in follwoing weekdays pattern.
+B1 have mon,tues,wed
+B2 have tues,wed,thurs
+b3 have wed,thurs,fri
+b4 have thurs,fri,sat
+b5 have fri,sat,mon,
+b6 have sat,mon,tues
+( FYMCA-B1 TO B4  FYMCS-B1 TO B4 )these batches have practical in follwoing weekdays pattern.
+B1 have mon,tues,wed
+B2 have tues,wed,thurs
+b3 have wed,thurs,fri
+b4 have thurs,fri,sat

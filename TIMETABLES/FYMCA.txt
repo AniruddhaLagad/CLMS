@@ -1,0 +1,23 @@
+								Department of Computer Appplication
+								Practical schedule for FYMCA
+
+ Semester 1                                                                     Semester 2                   
+|----------|--------------------------|-----------|------------|-------------| |----------|-------------|------------|------------|-------------|
+| Batch    |     Subject              | Day       | Time       | Lab Name    | | Batch    | Subject     | Day        | Time       | Lab Name    |
+|----------|--------------------------|-----------|------------|-------------| |----------|-------------|------------|------------|-------------|
+| FYMCA-B1 | Internet of Things (IoT) | Monday    | 8AM to 10AM| MCA Lab-I   | | FYMCA-B1 | MIS         | Monday     | 8AM to 10AM| MCA Lab-I   |
+|          | Artificial Intelligence  | Tuesday   | 8AM to 10AM| MCA Lab-II  | |          | Data Science| Tuesday    | 8AM to 10AM| MCA Lab-II  |
+|--------------|----------------------------------|------------|-------------| |----------|-------------|----------------------------------|-----
+| FYMCA-B2 | Internet of Things (IoT) | Tuesday   | 8AM to 10AM| MCA Lab-I   | | FYMCA-B2 | MIS         | Tuesday    | 8AM to 10AM| MCA Lab-I   |
+|          | Artificial Intelligence  | Wednesday | 8AM to 10AM| MCA Lab-II  | |          | Data Science| Wednesday  | 8AM to 10AM| MCA Lab-II  |
+|--------------|----------------------------------|------------|-------------| |----------|-------------|-------------------------|-------------|
+| FYMCA-B3 | Internet of Things (IoT) | Wednesday | 8AM to 10AM| MCA Lab-I   | | FYMCA-B3 | MIS         | Wednesday  | 8AM to 10AM| MCA Lab-I   |
+|          | Artificial Intelligence  | Thursday  | 8AM to 10AM| MCA Lab-II  | |          | Data Science| Thursday   | 8AM to 10AM| MCA Lab-II  |
+|--------------|----------------------------------|------------|-------------| |----------|-------------|----------------------------------|-----
+| FYMCA-B4 | Internet of Things (IoT) | Thursday  | 8AM to 10AM| MCA Lab-I   | | FYMCA-B4 | MIS         | Thursday   | 8AM to 10AM| MCA Lab-I   |
+|          | Artificial Intelligence  | Friday    | 8AM to 10AM| MCA Lab-II  | |          | Data Science| Friday     | 8AM to 10AM| MCA Lab-II  |
+|--------------|----------------------------------|------------|-------------| |----------|-------------|------------|------------|-------------|
+
+Parage R.T   (SEM-1 IoT & SEM-II AI)
+Waghmode D.M (SEM-1 MIS& SEM-II Data Science)
+

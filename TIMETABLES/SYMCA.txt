@@ -1,0 +1,22 @@
+															Department of Computer Appplication													
+															Practical schedule for SYMCA
+________________________________________________________________________________________________________________________________________________________
+						   SEMESTER-1                                    
+________________________________________________________________________________________________________________________________________________________					   
+| Batch    | Subject                | Day        | Time       | Lab Name  |   | Batch    | Subject         | Day        | Time       | Lab Name  | 
+|----------|------------------------|------------|------------|-----------|   |----------|-----------------|------------|------------|-----------|
+| SYMCA-B1 | Software Automation    | Monday     | 11AM to 1PM| MCA Lab-I |   | SYMCA-B1 | ML DS AI        | Monday     | 11AM to 1PM| MCA Lab-I |
+|          | DS using Java          | Tuesday    | 11AM to 1PM| MCA Lab-II|   |          | Big Data        | Tuesday    | 11AM to 1PM| MCA Lab-II|
+|----------|------------------------|------------|------------|-----------|   |----------|-----------------|------------|------------|-----------|
+| SYMCA-B2 | Software Automation    | Tuesday    | 11AM to 1PM| MCA Lab-I |   | SYMCA-B2 | ML DS AI        | Tuesday    | 11AM to 1PM| MCA Lab-I |
+|          | DS using Java          | Wednesday  | 11AM to 1PM| MCA Lab-II|   |          | Big Data        | Wednesday  | 11AM to 1PM| MCA Lab-II|
+|----------|------------------------|------------|------------|-----------|   |----------|-----------------|------------|------------|-----------|
+| SYMCA-B3 | Software Automation    | Wednesday  | 11AM to 1PM| MCA Lab-I |   | SYMCA-B3 | ML DS AI        | Wednesday  | 11AM to 1PM| MCA Lab-I |
+|          | DS using Java          | Thursday   | 11AM to 1PM| MCA Lab-II|   |          | Big Data        | Thursday   | 11AM to 1PM| MCA Lab-II|
+|----------|------------------------|------------|------------|-----------|   |----------|-----------------|------------|------------|-----------|
+| SYMCA-B4 | Software Automation    | Thursday   | 11AM to 1PM| MCA Lab-I |   | SYMCA-B4 | ML DS AI        | Thursday   | 11AM to 1PM| MCA Lab-I |
+|          | DS using Java          | Friday     | 11AM to 1PM| MCA Lab-II|   |          | Big Data        | Friday     | 11AM to 1PM| MCA Lab-II|
+|----------|------------------------|------------|------------|-----------|   |----------|-----------------|------------|------------|-----------|
+
+Bhor P.E      (SEM-I Software Automation & SEM-II DS using Java)
+Ingulakar U.S (SEM-I ML DS AI & SEM-II Big Data)
